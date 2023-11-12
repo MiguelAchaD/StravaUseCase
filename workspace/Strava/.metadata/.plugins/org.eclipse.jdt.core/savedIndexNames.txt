@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\iddem\Desktop\workspace\Strava\.metadata\.plugins\org.eclipse.jdt.core
+1379838229.index
+695717928.index
+3966592475.index
+1865797976.index
+1900328056.index
+1790293985.index
