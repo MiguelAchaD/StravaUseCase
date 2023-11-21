@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" output="bin" path="src"/>
-	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
-	<classpathentry kind="lib" path="lib/eAuctions.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/commons-codec-1.15.jar"/>
-	<classpathentry kind="con" path="C:/SoftLabs/SD/eAuctionWorkspace/4_eAuctions_Client/bin"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
